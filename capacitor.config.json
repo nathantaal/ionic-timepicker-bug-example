@@ -2,6 +2,7 @@
   "appId": "io.ionic.starter",
   "appName": "ionic-timepicker-bug-example",
   "bundledWebRuntime": false,
+  "linuxAndroidStudioPath": "/home/nathan/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/193.6514223/bin/studio.sh",
   "npmClient": "npm",
   "webDir": "build",
   "plugins": {
